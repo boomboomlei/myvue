@@ -71,22 +71,22 @@ export default {
   },
   data() {
     return {
-      description: 'Learnku Vue.js 是一个 Vue.js 的知识社区',
+      description: 'Vue.js 的知识社区',
       contacts: [
         {
           icon: 'envelope',
           title: '反馈问题',
-          link: 'mailto:summer@yousails.com'
+          link: '1846352100@qq.com'
         },
         {
           icon: 'weibo',
-          title: '站长微博',
-          link: 'https://weibo.com/1837553744/profile?topnav=1&wvr=6'
+          title: '微博',
+          link: 'wwww.lilieibaby.cn'
         },
         {
           icon: 'weixin',
           title: '加我微信',
-          link: 'https://learnku.com/vuejs/contact'
+          link: 'https://www.baidu.com'
         }
       ],
       contactStyle: {
@@ -95,7 +95,7 @@ export default {
       designer: `
         <span style="font-size:0.9em">Designed by
           <span style="color: #e27575;font-size: 14px;">❤</span>
-          <a href="https://github.com/summerblue"target="_blank"style="color:inherit">Summer</a>
+         
         </span>
       `,
       sponsor: {
